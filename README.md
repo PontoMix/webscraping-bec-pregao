@@ -33,4 +33,4 @@ Lembre-se de que este guia pressupõe que você tenha conhecimento básico sobre
 
 **Problema para abrir o programa?**
 
-Verifique se seguiu os passos anteriores corretamente, se sim, baixe uma nova versão do Google Chrome Driver [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads) (arquivo Windows ZIP), extraia e substitua dentro da pasta "Projeto Empresa - WebScraping Pregão" os antigos arquivos. 
+Verifique se seguiu os passos anteriores corretamente, se sim, baixe uma nova versão do Google Chrome Driver [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads) (arquivo Windows ZIP), extraia e substitua dentro da pasta "Projeto Empresa - WebScraping Pregão" os antigos arquivos pelos novos. 
